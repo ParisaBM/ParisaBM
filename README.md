@@ -1,6 +1,6 @@
 - I’m Parisa. Nice of you to come by! 👋
 - I did a specialization in computer science and mathematics at Queen's University, and am now studying Linguistics also at Queen's.
-- Computer science is such a broad and fascinating subject and I've coded all sorts of things.
+- Computer science is such a broad and fascinating subject to me and I've coded all sorts of things.
 - See anything in my projects you think could be improved? Let me know.
 - My email is parisa.betel.miri@gmail.com
 
